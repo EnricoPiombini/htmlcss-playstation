@@ -1,0 +1,6 @@
+.top-hd-black{
+    color: white;
+    background-color: black;
+    justify-content: flex-end;
+    padding: .5rem;
+}
