@@ -5,6 +5,12 @@
     padding: .5rem;
 }
 
+.lens-icon{
+    width: 25px;
+    height: 25px;
+
+}
+
 .border-radius-2 {
     border-radius: 2rem;
 }
@@ -15,11 +21,36 @@
 }
 
 .section-returnal{ 
-    background-image: url(../img/returnal-listing-thumb-01-ps5.jpg);
+    background-image: url(../img/jumbo-bg.png);
     background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 550px;
   
 }
 
 .text-col{
     color: white;
 }
+
+.section-takestwo{
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+}
+
+.position-rel{
+    position: relative;
+}
+ .text-abs{
+    position: absolute;
+    bottom: -475px;
+    left: -35px;
+    
+ }
+ .section-bg-darkblue{
+     background-color: #161C3B;
+ }
+
+ .container-social{
+     padding-left: 5rem;
+     padding-right: 5rem;
+ }
