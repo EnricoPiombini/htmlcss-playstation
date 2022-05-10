@@ -4,3 +4,7 @@
     justify-content: flex-end;
     padding: .5rem;
 }
+
+.login-btn .border-radius-2{
+    border-radius: 2rem;
+}
