@@ -37,6 +37,8 @@
     color: white;
 }
 
+
+
 .w-10{
     width: 10px;
 }
@@ -62,6 +64,10 @@ width: 80px;
 
 }
 
+.section-plus{
+    padding: 0;
+}
+
 .section-bg-darkblue {
     background-color: #161C3B;
 }
@@ -79,6 +85,14 @@ width: 80px;
 .img-Sie {
     width: 150px;
     height: 100px;
+}
+
+.img-list{
+    padding-bottom: 1rem;
+}
+
+.img-discounts{
+    padding-bottom: 2rem;
 }
 
 .list-style{
