@@ -2,13 +2,25 @@
     color: white;
     background-color: black;
     justify-content: flex-end;
-    padding: .5rem;
+    padding: 1rem;
 }
 
 .lens-icon {
     width: 25px;
     height: 25px;
 
+}
+
+.my-mb-1{
+    margin-bottom: 1rem;
+}
+
+.p-grey{
+    color: grey;
+}
+
+.bg-lightgrey{
+    background-color: #BEBCBB;
 }
 
 .border-radius-2 {
@@ -36,8 +48,6 @@
 .text-col {
     color: white;
 }
-
-
 
 .w-10{
     width: 10px;
