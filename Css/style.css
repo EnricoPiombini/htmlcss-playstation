@@ -111,3 +111,7 @@ width: 80px;
 .my-margin{
     margin-bottom: .5rem;
 }
+
+.w-auto{
+    width: auto;
+}
