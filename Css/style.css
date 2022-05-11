@@ -25,7 +25,7 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    min-height: 550px;
+    
 
 }
 
@@ -54,17 +54,11 @@ width: 80px;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    min-height: 550px;
+   
 }
 
-.position-rel {
-    position: relative;
-}
-
-.text-abs {
-    position: absolute;
-    bottom: -475px;
-    left: -35px;
+.text-bottom {
+    padding-top: 15rem;
 
 }
 

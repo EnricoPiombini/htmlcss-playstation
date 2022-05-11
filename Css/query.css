@@ -1,0 +1,10 @@
+@media screen and (max-width:576px) {
+    .container {
+        width: 100%;
+    }
+
+    .col-sm-4 {
+        flex-basis: calc(100% / 3);
+    }
+
+}
