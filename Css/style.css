@@ -1,3 +1,4 @@
+
 .top-hd-black {
     color: white;
     background-color: black;
@@ -11,15 +12,15 @@
 
 }
 
-.my-mb-1{
+.my-mb-1 {
     margin-bottom: 1rem;
 }
 
-.p-grey{
+.p-grey {
     color: grey;
 }
 
-.bg-lightgrey{
+.bg-lightgrey {
     background-color: #BEBCBB;
 }
 
@@ -37,11 +38,11 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    
+
 
 }
 
-.text-black{
+.text-black {
     color: black;
 }
 
@@ -49,16 +50,16 @@
     color: white;
 }
 
-.w-10{
+.w-10 {
     width: 10px;
 }
 
-.w-80{
-width: 80px;
+.w-80 {
+    width: 80px;
 }
 
-.color-primary{
-    color:#117BD1 ;
+.color-primary {
+    color: #117BD1;
 }
 
 .section-takestwo {
@@ -66,7 +67,7 @@ width: 80px;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-   
+
 }
 
 .text-bottom {
@@ -74,7 +75,7 @@ width: 80px;
 
 }
 
-.section-plus{
+.section-plus {
     padding: 0;
 }
 
@@ -96,22 +97,27 @@ width: 80px;
     width: 150px;
 }
 
-.img-list{
+.img-list {
     padding-bottom: 1rem;
 }
 
-.img-discounts{
+
+.img-discounts {
     padding-bottom: 2rem;
 }
 
-.list-style{
+.sub-title:hover{
+    border-bottom:2px solid #117BD1;
+}
+
+.list-style {
     list-style: none;
 }
 
-.my-margin{
+.my-margin {
     margin-bottom: .5rem;
 }
 
-.w-auto{
+.w-auto {
     width: auto;
 }

@@ -24,7 +24,7 @@
 
     .col-sm-4{
         flex-basis: calc(100% / 2);
-    } 
+    }  
 
     .col-sm-2{
         flex-basis: calc(100% / 3);
@@ -35,6 +35,10 @@
     }
 
     .col-sm-4.section-items{
+        flex-basis: 100%;
+    }
+
+    .col-sm-12{
         flex-basis: 100%;
     }
 
